@@ -1,0 +1,19 @@
+.block {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+  .find{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+input .user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 25px;
+}
